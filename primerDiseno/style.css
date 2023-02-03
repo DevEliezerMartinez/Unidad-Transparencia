@@ -2,3 +2,8 @@
     display: block;
     margin: 5px auto 5px auto;
 }
+
+.bcg{
+    background-color: pink;
+    font-size: 10px;
+}
